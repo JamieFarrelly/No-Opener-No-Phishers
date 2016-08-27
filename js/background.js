@@ -1,0 +1,1 @@
+$("a").attr("rel", "noopener noreferrer");
