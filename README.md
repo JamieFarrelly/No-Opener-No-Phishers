@@ -13,7 +13,7 @@ on [Github](https://github.com/JamieFarrelly/Rel-NoOpener-Example).
 This Chrome extension is as simple as it gets, all it does is add "noopener noreferrer" to the rel attribute on all links on the pages
 that you're visiting. It's literally one line of code.
 ```javascript
-$("a").attr("rel", "noopener noreferrer");
+$('[target="_blank"]').attr("rel", "noopener noreferrer");
 ```
 
 
