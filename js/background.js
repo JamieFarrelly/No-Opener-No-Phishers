@@ -1,1 +1,1 @@
-$("a").attr("rel", "noopener noreferrer");
+$('[target="_blank"]').attr("rel", "noopener noreferrer");
