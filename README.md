@@ -1,4 +1,4 @@
-# No Opener, No Phisher
+# No Opener, No Phishers
 Chrome extension to reduce the risk of falling victim to phishing attacks.
 
 Overview
@@ -16,3 +16,7 @@ that you're visiting. It's literally one line of code.
 $("a").attr("rel", "noopener noreferrer");
 ```
 
+
+Installation
+--------------------------
+[Download from the Chrome Store](https://chrome.google.com/webstore/detail/hieejlcohhkjbpiihgphcnaaiehphike)
