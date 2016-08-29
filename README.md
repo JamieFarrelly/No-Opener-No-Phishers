@@ -1,5 +1,5 @@
 # No Opener, No Phishers
-Chrome extension to reduce the risk of falling victim to phishing attacks.
+Chrome extension to reduce the risk of falling victim to phishing attacks. Read my blog post about this for more info: [Browsers are broken, but nobody cares. All it took was 1 line of code to fix it.](https://medium.com/@Jamie_Farrelly/browsers-are-broken-but-nobody-cares-all-it-took-was-1-line-of-code-to-fix-it-f8af13c18cff).
 
 Overview
 --------------------------
