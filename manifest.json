@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "No Opener, No Phishers",
-  "version": "1",
+  "version": "2",
   "description": "Reduce the risk of falling victim to phishing attacks.",
   "content_scripts": [
     { 
@@ -9,7 +9,7 @@
         "http://*/*",
         "https://*/*"
       ],
-      "js": ["js/jquery-1.10.2.min.js", "js/background.js"],
+      "js": ["js/background.js"],
       "run_at": "document_end",
       "all_frames": false
     }
